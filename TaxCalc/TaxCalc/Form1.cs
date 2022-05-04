@@ -30,6 +30,7 @@ namespace TaxCalc
             }
             else  {
                 MessageBox.Show("税抜価格を正しく入力してください");
+                priceBox.Text = "";
             }
         }
     }
