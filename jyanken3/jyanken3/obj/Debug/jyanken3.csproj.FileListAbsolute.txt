@@ -1,0 +1,8 @@
+C:\Users\田島　優人\source\repos\jyanken3\jyanken3\bin\Debug\jyanken3.exe.config
+C:\Users\田島　優人\source\repos\jyanken3\jyanken3\bin\Debug\jyanken3.exe
+C:\Users\田島　優人\source\repos\jyanken3\jyanken3\bin\Debug\jyanken3.pdb
+C:\Users\田島　優人\source\repos\jyanken3\jyanken3\obj\Debug\jyanken3.csproj.AssemblyReference.cache
+C:\Users\田島　優人\source\repos\jyanken3\jyanken3\obj\Debug\jyanken3.csproj.SuggestedBindingRedirects.cache
+C:\Users\田島　優人\source\repos\jyanken3\jyanken3\obj\Debug\jyanken3.csproj.CoreCompileInputs.cache
+C:\Users\田島　優人\source\repos\jyanken3\jyanken3\obj\Debug\jyanken3.exe
+C:\Users\田島　優人\source\repos\jyanken3\jyanken3\obj\Debug\jyanken3.pdb

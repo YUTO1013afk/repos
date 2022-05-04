@@ -1,0 +1,8 @@
+C:\Users\田島　優人\source\repos\list3-14\list3-14\bin\Debug\list3-14.exe.config
+C:\Users\田島　優人\source\repos\list3-14\list3-14\bin\Debug\list3-14.exe
+C:\Users\田島　優人\source\repos\list3-14\list3-14\bin\Debug\list3-14.pdb
+C:\Users\田島　優人\source\repos\list3-14\list3-14\obj\Debug\list3-14.csproj.AssemblyReference.cache
+C:\Users\田島　優人\source\repos\list3-14\list3-14\obj\Debug\list3-14.csproj.SuggestedBindingRedirects.cache
+C:\Users\田島　優人\source\repos\list3-14\list3-14\obj\Debug\list3-14.csproj.CoreCompileInputs.cache
+C:\Users\田島　優人\source\repos\list3-14\list3-14\obj\Debug\list3-14.exe
+C:\Users\田島　優人\source\repos\list3-14\list3-14\obj\Debug\list3-14.pdb

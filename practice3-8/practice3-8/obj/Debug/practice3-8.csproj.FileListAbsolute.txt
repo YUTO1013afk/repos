@@ -1,0 +1,8 @@
+C:\Users\田島　優人\source\repos\practice3-8\practice3-8\bin\Debug\practice3-8.exe.config
+C:\Users\田島　優人\source\repos\practice3-8\practice3-8\bin\Debug\practice3-8.exe
+C:\Users\田島　優人\source\repos\practice3-8\practice3-8\bin\Debug\practice3-8.pdb
+C:\Users\田島　優人\source\repos\practice3-8\practice3-8\obj\Debug\practice3-8.csproj.AssemblyReference.cache
+C:\Users\田島　優人\source\repos\practice3-8\practice3-8\obj\Debug\practice3-8.csproj.SuggestedBindingRedirects.cache
+C:\Users\田島　優人\source\repos\practice3-8\practice3-8\obj\Debug\practice3-8.csproj.CoreCompileInputs.cache
+C:\Users\田島　優人\source\repos\practice3-8\practice3-8\obj\Debug\practice3-8.exe
+C:\Users\田島　優人\source\repos\practice3-8\practice3-8\obj\Debug\practice3-8.pdb
