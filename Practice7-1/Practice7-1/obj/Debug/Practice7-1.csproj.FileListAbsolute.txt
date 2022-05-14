@@ -1,0 +1,22 @@
+C:\Users\田島　優人\source\repos\Practice7-1\Practice7-1\bin\Debug\Practice7-1.exe.config
+C:\Users\田島　優人\source\repos\Practice7-1\Practice7-1\bin\Debug\Practice7-1.exe
+C:\Users\田島　優人\source\repos\Practice7-1\Practice7-1\bin\Debug\Practice7-1.pdb
+C:\Users\田島　優人\source\repos\Practice7-1\Practice7-1\obj\Debug\Practice7-1.csproj.AssemblyReference.cache
+C:\Users\田島　優人\source\repos\Practice7-1\Practice7-1\obj\Debug\Practice7-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\田島　優人\source\repos\Practice7-1\Practice7-1\obj\Debug\Practice7_1.Form1.resources
+C:\Users\田島　優人\source\repos\Practice7-1\Practice7-1\obj\Debug\Practice7_1.Properties.Resources.resources
+C:\Users\田島　優人\source\repos\Practice7-1\Practice7-1\obj\Debug\Practice7-1.csproj.GenerateResource.cache
+C:\Users\田島　優人\source\repos\Practice7-1\Practice7-1\obj\Debug\Practice7-1.csproj.CoreCompileInputs.cache
+C:\Users\田島　優人\source\repos\Practice7-1\Practice7-1\obj\Debug\Practice7-1.exe
+C:\Users\田島　優人\source\repos\Practice7-1\Practice7-1\obj\Debug\Practice7-1.pdb
+\\f63srv1\student\NT1\20\22前C#\220511\Practice7-1\Practice7-1\bin\Debug\Practice7-1.exe.config
+\\f63srv1\student\NT1\20\22前C#\220511\Practice7-1\Practice7-1\bin\Debug\Practice7-1.exe
+\\f63srv1\student\NT1\20\22前C#\220511\Practice7-1\Practice7-1\bin\Debug\Practice7-1.pdb
+\\f63srv1\student\NT1\20\22前C#\220511\Practice7-1\Practice7-1\obj\Debug\Practice7-1.csproj.AssemblyReference.cache
+\\f63srv1\student\NT1\20\22前C#\220511\Practice7-1\Practice7-1\obj\Debug\Practice7-1.csproj.SuggestedBindingRedirects.cache
+\\f63srv1\student\NT1\20\22前C#\220511\Practice7-1\Practice7-1\obj\Debug\Practice7_1.Form1.resources
+\\f63srv1\student\NT1\20\22前C#\220511\Practice7-1\Practice7-1\obj\Debug\Practice7_1.Properties.Resources.resources
+\\f63srv1\student\NT1\20\22前C#\220511\Practice7-1\Practice7-1\obj\Debug\Practice7-1.csproj.GenerateResource.cache
+\\f63srv1\student\NT1\20\22前C#\220511\Practice7-1\Practice7-1\obj\Debug\Practice7-1.csproj.CoreCompileInputs.cache
+\\f63srv1\student\NT1\20\22前C#\220511\Practice7-1\Practice7-1\obj\Debug\Practice7-1.exe
+\\f63srv1\student\NT1\20\22前C#\220511\Practice7-1\Practice7-1\obj\Debug\Practice7-1.pdb
