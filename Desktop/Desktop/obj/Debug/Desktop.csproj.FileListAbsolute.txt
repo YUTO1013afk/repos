@@ -1,0 +1,11 @@
+C:\Users\田島　優人\source\repos\Desktop\Desktop\obj\Debug\Desktop.csproj.AssemblyReference.cache
+C:\Users\田島　優人\source\repos\Desktop\Desktop\obj\Debug\Desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\田島　優人\source\repos\Desktop\Desktop\obj\Debug\Desktop.Properties.Resources.resources
+C:\Users\田島　優人\source\repos\Desktop\Desktop\obj\Debug\Desktop.csproj.GenerateResource.cache
+C:\Users\田島　優人\source\repos\Desktop\Desktop\obj\Debug\Desktop.csproj.CoreCompileInputs.cache
+C:\Users\田島　優人\source\repos\Desktop\Desktop\bin\Debug\Desktop.exe.config
+C:\Users\田島　優人\source\repos\Desktop\Desktop\bin\Debug\Desktop.exe
+C:\Users\田島　優人\source\repos\Desktop\Desktop\bin\Debug\Desktop.pdb
+C:\Users\田島　優人\source\repos\Desktop\Desktop\obj\Debug\Desktop.exe
+C:\Users\田島　優人\source\repos\Desktop\Desktop\obj\Debug\Desktop.pdb
+C:\Users\田島　優人\source\repos\Desktop\Desktop\obj\Debug\Desktop.Form1.resources

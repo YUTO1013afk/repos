@@ -1,0 +1,28 @@
+C:\Users\s202078.TSITCL\source\repos\SampleMail\SampleMail\bin\Debug\SampleMail.exe.config
+C:\Users\s202078.TSITCL\source\repos\SampleMail\SampleMail\bin\Debug\SampleMail.exe
+C:\Users\s202078.TSITCL\source\repos\SampleMail\SampleMail\bin\Debug\SampleMail.pdb
+C:\Users\s202078.TSITCL\source\repos\SampleMail\SampleMail\obj\Debug\SampleMail.csproj.AssemblyReference.cache
+C:\Users\s202078.TSITCL\source\repos\SampleMail\SampleMail\obj\Debug\SampleMail.csproj.SuggestedBindingRedirects.cache
+C:\Users\s202078.TSITCL\source\repos\SampleMail\SampleMail\obj\Debug\SampleMail.Form1.resources
+C:\Users\s202078.TSITCL\source\repos\SampleMail\SampleMail\obj\Debug\SampleMail.Properties.Resources.resources
+C:\Users\s202078.TSITCL\source\repos\SampleMail\SampleMail\obj\Debug\SampleMail.csproj.GenerateResource.cache
+C:\Users\s202078.TSITCL\source\repos\SampleMail\SampleMail\obj\Debug\SampleMail.csproj.CoreCompileInputs.cache
+C:\Users\s202078.TSITCL\source\repos\SampleMail\SampleMail\obj\Debug\SampleMail.exe
+C:\Users\s202078.TSITCL\source\repos\SampleMail\SampleMail\obj\Debug\SampleMail.pdb
+C:\Users\s202078.TSITCL\source\repos\SampleMail\SampleMail\bin\Debug\S22.Imap.dll
+C:\Users\s202078.TSITCL\source\repos\SampleMail\SampleMail\bin\Debug\S22.Imap.xml
+C:\Users\s202078.TSITCL\source\repos\SampleMail\SampleMail\obj\Debug\SampleMail.csproj.CopyComplete
+C:\Users\田島　優人\source\repos\SampleMail\SampleMail\bin\Debug\SampleMail.exe.config
+C:\Users\田島　優人\source\repos\SampleMail\SampleMail\bin\Debug\SampleMail.exe
+C:\Users\田島　優人\source\repos\SampleMail\SampleMail\bin\Debug\SampleMail.pdb
+C:\Users\田島　優人\source\repos\SampleMail\SampleMail\bin\Debug\S22.Imap.dll
+C:\Users\田島　優人\source\repos\SampleMail\SampleMail\bin\Debug\S22.Imap.xml
+C:\Users\田島　優人\source\repos\SampleMail\SampleMail\obj\Debug\SampleMail.csproj.AssemblyReference.cache
+C:\Users\田島　優人\source\repos\SampleMail\SampleMail\obj\Debug\SampleMail.csproj.SuggestedBindingRedirects.cache
+C:\Users\田島　優人\source\repos\SampleMail\SampleMail\obj\Debug\SampleMail.Form1.resources
+C:\Users\田島　優人\source\repos\SampleMail\SampleMail\obj\Debug\SampleMail.Properties.Resources.resources
+C:\Users\田島　優人\source\repos\SampleMail\SampleMail\obj\Debug\SampleMail.csproj.GenerateResource.cache
+C:\Users\田島　優人\source\repos\SampleMail\SampleMail\obj\Debug\SampleMail.csproj.CoreCompileInputs.cache
+C:\Users\田島　優人\source\repos\SampleMail\SampleMail\obj\Debug\SampleMail.csproj.CopyComplete
+C:\Users\田島　優人\source\repos\SampleMail\SampleMail\obj\Debug\SampleMail.exe
+C:\Users\田島　優人\source\repos\SampleMail\SampleMail\obj\Debug\SampleMail.pdb
