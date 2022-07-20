@@ -1,0 +1,29 @@
+C:\Users\田島　優人\source\repos\SampleDatabase\SampleDatabase\bin\Debug\SampleDatabase.mdf
+C:\Users\田島　優人\source\repos\SampleDatabase\SampleDatabase\bin\Debug\SampleDatabase_log.ldf
+C:\Users\田島　優人\source\repos\SampleDatabase\SampleDatabase\bin\Debug\SampleDatabase.exe.config
+C:\Users\田島　優人\source\repos\SampleDatabase\SampleDatabase\bin\Debug\SampleDatabase.exe
+C:\Users\田島　優人\source\repos\SampleDatabase\SampleDatabase\bin\Debug\SampleDatabase.pdb
+C:\Users\田島　優人\source\repos\SampleDatabase\SampleDatabase\obj\Debug\SampleDatabase.csproj.AssemblyReference.cache
+C:\Users\田島　優人\source\repos\SampleDatabase\SampleDatabase\obj\Debug\SampleDatabase.csproj.SuggestedBindingRedirects.cache
+C:\Users\田島　優人\source\repos\SampleDatabase\SampleDatabase\obj\Debug\SampleDatabase.Properties.Resources.resources
+C:\Users\田島　優人\source\repos\SampleDatabase\SampleDatabase\obj\Debug\SampleDatabase.csproj.GenerateResource.cache
+C:\Users\田島　優人\source\repos\SampleDatabase\SampleDatabase\obj\Debug\SampleDatabase.csproj.CoreCompileInputs.cache
+C:\Users\田島　優人\source\repos\SampleDatabase\SampleDatabase\obj\Debug\SampleDatabase.exe
+C:\Users\田島　優人\source\repos\SampleDatabase\SampleDatabase\obj\Debug\SampleDatabase.pdb
+\\f63srv1\student\NT1\20\22前C#\220601\SampleDatabase\SampleDatabase\bin\Debug\SampleDatabase.mdf
+\\f63srv1\student\NT1\20\22前C#\220601\SampleDatabase\SampleDatabase\bin\Debug\SampleDatabase_log.ldf
+\\f63srv1\student\NT1\20\22前C#\220601\SampleDatabase\SampleDatabase\bin\Debug\SampleDatabase.exe.config
+\\f63srv1\student\NT1\20\22前C#\220601\SampleDatabase\SampleDatabase\bin\Debug\SampleDatabase.exe
+\\f63srv1\student\NT1\20\22前C#\220601\SampleDatabase\SampleDatabase\bin\Debug\SampleDatabase.pdb
+\\f63srv1\student\NT1\20\22前C#\220601\SampleDatabase\SampleDatabase\obj\Debug\SampleDatabase.csproj.AssemblyReference.cache
+\\f63srv1\student\NT1\20\22前C#\220601\SampleDatabase\SampleDatabase\obj\Debug\SampleDatabase.csproj.SuggestedBindingRedirects.cache
+\\f63srv1\student\NT1\20\22前C#\220601\SampleDatabase\SampleDatabase\obj\Debug\SampleDatabase.Form1.resources
+\\f63srv1\student\NT1\20\22前C#\220601\SampleDatabase\SampleDatabase\obj\Debug\SampleDatabase.Properties.Resources.resources
+\\f63srv1\student\NT1\20\22前C#\220601\SampleDatabase\SampleDatabase\obj\Debug\SampleDatabase.csproj.GenerateResource.cache
+\\f63srv1\student\NT1\20\22前C#\220601\SampleDatabase\SampleDatabase\obj\Debug\SampleDatabase.csproj.CoreCompileInputs.cache
+\\f63srv1\student\NT1\20\22前C#\220601\SampleDatabase\SampleDatabase\obj\Debug\SampleDatabase.exe
+\\f63srv1\student\NT1\20\22前C#\220601\SampleDatabase\SampleDatabase\obj\Debug\SampleDatabase.pdb
+C:\Users\田島　優人\source\repos\SampleDatabase\SampleDatabase\obj\Debug\SampleDatabase.Form1.resources
+C:\Users\田島　優人\source\repos\SampleDatabase\SampleDatabase\bin\Debug\AddressDatabase.mdf
+C:\Users\田島　優人\source\repos\SampleDatabase\SampleDatabase\bin\Debug\AddressDatabase_log.ldf
+C:\Users\田島　優人\source\repos\SampleDatabase\SampleDatabase\obj\Debug\SampleDatabase.Form2.resources
